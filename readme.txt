@@ -14,6 +14,29 @@ Mack's PGA Golf News Feed plugin incorporates an external RSS news feed into a c
 
 Relevant Keywords: pga, golf, golfing, golf news, pga news, pro golf, golf rumors, golf leader board, top golfers, best golfers
 
+A variety of news is available, including:
+<ul>
+<li>Latest PGA Golfing News</li>
+<br />
+<li>Individual Player News</li>
+<br />
+<li>Leader Board Updates</li>
+<br />
+<li>PGA Golf Rumors</li>
+<br />
+<li>Golf Gossip, Chat</li>
+<br />
+<li>Training Schedules</li>
+<br />
+<li>Match/Tournament Results</li>
+<br />
+<li>Championship Updates</li>
+<br />
+<li>Top Players</li>
+</ul>
+
+Similar to the gentleman's sport of golf is like <a href="http://www.sportsbetting3.com/breeders_cup_betting.php">Breeders Cup betting</a>, the fall classic ( <a href="http://www.sportsbetting3.com/win_place_show_horse_betting.php">Win Place Show Betting</a> )showcasing the best of horse racing sport. Equally important are sports math/info sites like some that have <a href="http://www.sportsbetting3.com/college_basketball_odds.php">college basketball odds</a>. These numbers are great predictors of future game results. You could also use the golf plugin at legal <a href="http://www.online-casinos-royale.com">best online casinos</a> sites.
+
 Thanks,
 
 Mack Bincroft
