@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: pga, golf, golfing, golf news, pga news, pro golf, golf rumors, golf leader board, top golfers, best golfers
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest PGA Golf News
